@@ -1,1 +1,2 @@
-Alert ("Hola Mundo editado")
+Alert ("Hola Mundo editado"); 
+console.log ("Cambios en el archivo);
